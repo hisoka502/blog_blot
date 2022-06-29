@@ -2,4 +2,4 @@
 title: 13456
 ---
 
-:fontawesome-brands-html5:
+[Subscribe to our newsletter](#){ .md-button }
