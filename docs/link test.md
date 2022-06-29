@@ -2,4 +2,8 @@
 title: 13456
 ---
 
-[Subscribe to our newsletter](#){ .md-button }
+<div class="result" markdown>
+
+[Subscribe to our newsletter][Demo]{ .md-button }
+
+</div>
