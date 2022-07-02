@@ -1,7 +1,4 @@
 site_name: 郭奕信 Kuo Yi Hsin
-nav:
-- '筆記': 'notes/'
-- '文章': 'essays/'
 theme:
     name: 'material'
     palette:
