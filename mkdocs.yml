@@ -1,10 +1,10 @@
 site_name: 郭奕信 Kuo Yi Hsin
 theme:
     name: 'material'
-    palette:
+    language: zh-TW
     features:
       - navigation.tabs
-
+    palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
