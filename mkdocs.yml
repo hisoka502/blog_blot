@@ -2,6 +2,8 @@ site_name: 郭奕信 Kuo Yi Hsin
 theme:
     name: 'material'
     palette:
+    features:
+    - navigation.tabs
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
