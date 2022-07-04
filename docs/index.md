@@ -1,8 +1,9 @@
 ---
-title: 郭奕信 Kuo Yi-Hsin
+title: home
 hide:
-- toc
+  - toc
+  - navigation
 ---
 
-# Obsidian Notes
+
 
