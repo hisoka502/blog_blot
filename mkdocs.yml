@@ -44,4 +44,4 @@ plugins:
   - search
   - roamlinks 
   - tags
-    - tags_file: tags.md
+      tags_file: tags.md
