@@ -40,7 +40,6 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - search
   - roamlinks 
   # 分頁名稱可點擊 plugin
   - section-index
