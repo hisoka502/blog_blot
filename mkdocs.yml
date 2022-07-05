@@ -42,5 +42,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks 
+  # 分頁名稱可點擊 plugin
+  - section-index
   - tags:
       tags_file: tags.md
