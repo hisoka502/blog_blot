@@ -1,7 +1,7 @@
 site_name: 郭奕信 Kuo Yi Hsin
 theme:
     name: 'material'
-    language: 
+    language: zh-TW
     features:
       - navigation.tabs
     palette:
