@@ -39,8 +39,8 @@ markdown_extensions:
   # - admonition
   - toc:
       permalink: true
-      # 讓中文 hyperlink 可正常顯示
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
+       # 讓中文 hyperlink 可正常顯示
+      slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
 
 plugins:
   - roamlinks 
