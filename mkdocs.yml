@@ -43,8 +43,6 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
 
 plugins:
-  - roamlinks 
-  # 分頁名稱可點擊 plugin
-  - section-index
+  - roamlinks
   - tags:
       tags_file: tags.md
