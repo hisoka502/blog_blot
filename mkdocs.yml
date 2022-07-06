@@ -1,6 +1,7 @@
 site_name: 郭奕信 Kuo Yi Hsin
 theme:
     name: 'material'
+    language: 
     features:
       - navigation.tabs
     palette:
@@ -38,6 +39,7 @@ markdown_extensions:
   # - admonition
   - toc:
       permalink: true
+      slugify: !!python/name:pymdownx.slugs.uslugify
 
 plugins:
   - roamlinks 
