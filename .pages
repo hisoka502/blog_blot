@@ -1,5 +1,5 @@
 nav:
     - index.md
-    - docs/essays
-    - docs/notes
+    - essays/
+    - notes/
     - tags.md
