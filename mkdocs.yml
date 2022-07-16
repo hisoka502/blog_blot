@@ -53,4 +53,5 @@ plugins:
   - tags:
       tags_file: tags.md
   # 調整 nav 呈現
+  - search
   - awesome-pages
