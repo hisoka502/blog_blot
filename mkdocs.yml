@@ -46,6 +46,7 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
 
 plugins:
+  - awesome-pages
   - roamlinks
   - redirects:
       redirect_maps:
@@ -53,5 +54,4 @@ plugins:
   - tags:
       tags_file: tags.md
   # 調整 nav 呈現
-  - search
-  - awesome-pages
+  
