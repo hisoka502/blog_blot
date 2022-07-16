@@ -1,4 +1,5 @@
 site_name: 郭奕信 Kuo Yi Hsin
+site_url: https://kuoyihs.in/
 theme:
     name: 'material'
     language: zh-TW
