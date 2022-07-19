@@ -50,7 +50,7 @@ plugins:
   - roamlinks
   - blogging:
     dirs:
-      - essays
+      - blogs
     features:
       tags: {}
   - redirects:
