@@ -53,7 +53,7 @@ plugins:
         - blogs
       size: 5
       features:
-        tags: {}
+        tags:
           index_page: tags.md
   - redirects:
       redirect_maps:
