@@ -1,3 +1,7 @@
 ---
-exclude_from_blog: true
+title: Blog
+hide:
+  - toc
 ---
+
+{{ blog_content }}
