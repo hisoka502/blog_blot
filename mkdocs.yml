@@ -48,6 +48,11 @@ markdown_extensions:
 plugins:
   - awesome-pages
   - roamlinks
+  - blogging:
+    dirs:
+      - essays
+    features:
+      tags: {}
   - redirects:
       redirect_maps:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
