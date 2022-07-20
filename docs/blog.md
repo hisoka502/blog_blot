@@ -2,8 +2,4 @@
 title: Blog
 ---
 
-{{ blog_content }}
-
-## test
-
-### test2 
+### {{ blog_content }}
