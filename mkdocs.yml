@@ -46,6 +46,7 @@ markdown_extensions:
       slugify: !!python/object/apply:pymdownx.slugs.slugify {kwds: {case: lower}}
 
 plugins:
+  # 調整 nav 呈現
   - awesome-pages
   - roamlinks
   - blogging:
@@ -60,5 +61,5 @@ plugins:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
   - tags:
       tags_file: tags.md
-  # 調整 nav 呈現
+
   
