@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Essays
 exclude_from_blog: true
 ---
 
