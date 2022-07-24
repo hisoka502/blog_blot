@@ -63,7 +63,7 @@ plugins:
   - redirects:
       redirect_maps:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
-
+          'practice-speaking-with-snipd.md': 'https://kuoyihs.in/essays/practice-speaking-with-snipd'
   - tags:
       tags_file: tags.md
 
