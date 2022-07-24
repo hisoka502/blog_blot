@@ -59,7 +59,7 @@ plugins:
       features:
         tags:
           index_page: tags.md
-      time_format: '%Y-%m-%d 
+      time_format: '%Y-%m-%d'
   - redirects:
       redirect_maps:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
