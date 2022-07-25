@@ -58,6 +58,6 @@ Snipd 但還是有些小缺點，例如：
 
 Snipd 整體來說是瑕不掩瑜的，除了拿來練習外語口說真的香，基於它明確的定位，提供的筆記劃線、匯出功能以及絲滑的使用者體驗，一定會讓平常把 Podcast 當成吸收知識管道的使用者感到非常驚艷。
 
-看完這篇文章後，若想進一步了解 Snipd 的功能與特色，可以看看這一篇[詳細的 Snipd 介紹](https://medium.com/%E5%88%BA%E8%9D%9F%E7%9A%84%E6%88%BF%E9%96%93/%E8%B6%85%E5%86%B7%E9%96%80-%E4%BD%86%E7%9C%9F%E6%AD%A3%E5%81%9A%E5%88%B0%E6%89%93%E5%8B%95%E4%BA%BA%E5%BF%83%E7%9A%84%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E7%9A%84podcast-app-snipd-de35ebbaa9c6)文章。
+看完這篇文章後，若想進一步了解 Snipd 的功能與特色，可以看看這一篇[詳細的 Snipd 介紹](https://medium.com/%E5%88%BA%E8%9D%9F%E7%9A%84%E6%88%BF%E9%96%93/%E8%B6%85%E5%86%B7%E9%96%80-%E4%BD%86%E7%9C%9F%E6%AD%A3%E5%81%9A%E5%88%B0%E6%89%93%E5%8B%95%E4%BA%BA%E5%BF%83%E7%9A%84%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E7%9A%84podcast-app-snipd-de35ebbaa9c6){:target="_blank"}文章。
 
 [^1]: 回音法是由台大外文系的史嘉琳老師創造的口說練習方法，[這個影片](https://www.youtube.com/watch?v=sQEWEPIHLzQ){:target="_blank"}有老師介紹背後的原理以及示範。
