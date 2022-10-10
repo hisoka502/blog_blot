@@ -25,10 +25,10 @@ tags:
 這就是我遇到的痛點：沒辦法有效率地重複播放 Podcast 中的特定句子。
 
 ## 意外的驚喜：Snipd
-我嘗試了許多播放器，但卻又一次次失望，就在快要放棄用 Podcast 來練回音法時，無意間發現了 [Snipd](https://www.snipd.com/) 這一款 Podcast 播放器。它意外地符合我重複聆聽短句的需求，儘管這完全不是這個產品最初誕生的目的。
+我嘗試了許多播放器，但卻又一次次失望，就在快要放棄用 Podcast 來練回音法時，無意間發現了 [Snipd](https://www.snipd.com/){:target="_blank"}; 這一款 Podcast 播放器。它意外地符合我重複聆聽短句的需求，儘管這完全不是這個產品最初誕生的目的。
 
 
-| <center>![[snipd_landingpage.jpeg]]<center>    |
+| <center>![[snipd-landingpage.jpeg]]<center>    |
 | ------------------------------ |
 | </center> Snipd 是一款主打讓使用者輕鬆擷取 Podcast 內容，並做成聲音以及文字筆記的播放器。</center> |
 
@@ -45,7 +45,7 @@ Snipd 的逐字稿有個特性：文字是錨定在聲音時間軸上的。這�
 點選逐字稿內容跳轉的實際影片，還可以看到逐字稿裡有奇怪的錯字                                                                                                                                                                                                                                                                                      
 
 
-| <center>![[snipd_copywriting.png]]</center>                         |   
+| <center>![[snipd-copywriting.png]]</center>                         |   
 | --------------------------------------------- | 
 | <center>為探索知識而生的 Podcast 播放器</center> | 
 
