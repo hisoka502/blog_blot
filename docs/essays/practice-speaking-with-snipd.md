@@ -44,7 +44,7 @@ Snipd 的逐字稿有個特性：文字是錨定在聲音時間軸上的。這�
 
 點選逐字稿內容跳轉的實際影片，還可以看到逐字稿裡有奇怪的錯字                                                                                                                                                                                                                                                                                      
 
-<div style="width:100%;height:0px;position:relative;padding-bottom:56.338%;"><iframe src="https://streamable.com/e/ [qtalm9](https://streamable.com/qtalm9)" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.338%;"><iframe src="https://streamable.com/e/qtalm9" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 Snipd 但還是有些小缺點，例如：
 
