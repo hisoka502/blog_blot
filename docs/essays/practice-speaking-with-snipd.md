@@ -25,7 +25,7 @@ tags:
 這就是我遇到的痛點：沒辦法有效率地重複播放 Podcast 中的特定句子。
 
 ## 意外的驚喜：Snipd
-我嘗試了許多播放器，但卻又一次次失望，就在快要放棄用 Podcast 來練回音法時，無意間發現了 [Snipd](https://www.snipd.com/){:target="_blank"}; 這一款 Podcast 播放器。它意外地符合我重複聆聽短句的需求，儘管這完全不是這個產品最初誕生的目的。
+我嘗試了許多播放器，但卻又一次次失望，就在快要放棄用 Podcast 來練回音法時，無意間發現了 [Snipd](https://www.snipd.com/){:target="_blank"}這一款 Podcast 播放器。它意外地符合我重複聆聽短句的需求，儘管這完全不是這個產品最初誕生的目的。
 
 
 | <center>![[snipd-landingpage.jpeg]]<center>    |
@@ -44,11 +44,7 @@ Snipd 的逐字稿有個特性：文字是錨定在聲音時間軸上的。這�
 
 點選逐字稿內容跳轉的實際影片，還可以看到逐字稿裡有奇怪的錯字                                                                                                                                                                                                                                                                                      
 
-
-| <center>![[snipd-copywriting.png]]</center>                         |   
-| --------------------------------------------- | 
-| <center>為探索知識而生的 Podcast 播放器</center> | 
-
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.338%;"><iframe src="https://streamable.com/e/ [qtalm9](https://streamable.com/qtalm9)" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
 
 Snipd 但還是有些小缺點，例如：
 
@@ -57,6 +53,11 @@ Snipd 但還是有些小缺點，例如：
 而運行效率似乎還有很多優化空間，像我只要用了和逐字稿相關的功能，不管是單純瀏覽、跳轉或是要選段落作筆記，都可以明顯感受到手機溫度開始飆高，執行也有些卡頓。但也有可能是因為我手機實在太舊（iPhone 初代 SE)啦。
 
 Snipd 整體來說是瑕不掩瑜的，除了拿來練習外語口說真的香，基於它明確的定位，提供的筆記劃線、匯出功能以及絲滑的使用者體驗，一定會讓平常把 Podcast 當成吸收知識管道的使用者感到非常驚艷。
+
+| <center>![[snipd-copywriting.png]]</center>                         |   
+| --------------------------------------------- | 
+| <center>為探索知識而生的 Podcast 播放器</center> | 
+
 
 看完這篇文章後，若想進一步了解 Snipd 的功能與特色，可以看看這一篇[詳細的 Snipd 介紹](https://medium.com/%E5%88%BA%E8%9D%9F%E7%9A%84%E6%88%BF%E9%96%93/%E8%B6%85%E5%86%B7%E9%96%80-%E4%BD%86%E7%9C%9F%E6%AD%A3%E5%81%9A%E5%88%B0%E6%89%93%E5%8B%95%E4%BA%BA%E5%BF%83%E7%9A%84%E7%94%A2%E5%93%81%E8%A8%AD%E8%A8%88%E7%9A%84podcast-app-snipd-de35ebbaa9c6){:target="_blank"}文章。
 
