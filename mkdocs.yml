@@ -2,10 +2,12 @@ site_name: 郭奕信 Kuo Yi Hsin
 site_url: https://kuoyihs.in/
 theme:
     name: 'material'
+    custom_dir: overrides
     language: zh-TW
     features:
       - navigation.tabs
     palette:
+    
 
     # Light mode
     - media: "(prefers-color-scheme: light)"
