@@ -62,5 +62,7 @@ plugins:
       redirect_maps:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
           'practice-speaking-with-snipd.md': 'https://kuoyihs.in/essays/practice-speaking-with-snipd'
+          'rough-sketch.md' : 'https://kuoyihs.in/essays/202303070906'
+# 將網址從 202303070906  改成 rough-sketches
 
   
