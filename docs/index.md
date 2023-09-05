@@ -3,6 +3,7 @@ title: Home
 hide:
   - toc
   - navigation
+  - title
 ---
 
 嗨，我是郭奕信，一個產品設計師/品牌經營者。
