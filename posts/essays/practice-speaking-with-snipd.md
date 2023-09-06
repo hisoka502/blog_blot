@@ -20,7 +20,7 @@ description: 很多人喜歡聽 Podcast 練習外文。但如果是以練習口�
 我嘗試了許多播放器，但卻又一次次失望，就在快要放棄用 Podcast 來練回音法時，無意間發現了 [Snipd](https://www.snipd.com/){:target="_blank"}這一款 Podcast 播放器。它意外地符合我重複聆聽短句的需求，儘管這完全不是這個產品最初誕生的目的。
 
 
-| <center>![[snipd-landingpage.jpeg]]<center>    |
+| <center>![[blog/docs/images/snipd-landingpage.jpeg]]<center>    |
 | ------------------------------ |
 | </center> Snipd 是一款主打讓使用者輕鬆擷取 Podcast 內容，並做成聲音以及文字筆記的播放器。</center> |
 
@@ -46,7 +46,7 @@ Snipd 但還是有些小缺點，例如：
 
 Snipd 整體來說是瑕不掩瑜的，除了拿來練習外語口說真的香，基於它明確的定位，提供的筆記劃線、匯出功能以及絲滑的使用者體驗，一定會讓平常把 Podcast 當成吸收知識管道的使用者感到非常驚艷。
 
-| <center>![[snipd-copywriting.png]]</center>                         |   
+| <center>![[blog/docs/images/snipd-copywriting.png]]</center>                         |   
 | --------------------------------------------- | 
 | <center>為探索知識而生的 Podcast 播放器</center> | 
 
