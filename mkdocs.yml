@@ -1,5 +1,8 @@
 site_name: 郭奕信 Kuo Yi Hsin
 site_url: https://kuoyihs.in/
+nav:
+  - Blog:
+    - blog/index.md 
 theme:
     name: 'material'
     language: zh-TW
@@ -56,7 +59,6 @@ plugins:
       blog_dir: blog
       post_dir: blog/posts
       post_url_format: "{slug}"
-      
   - blogging:
       locale: zh-TW
       dirs:
