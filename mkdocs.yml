@@ -2,7 +2,8 @@ site_name: 郭奕信 Kuo Yi Hsin
 site_url: https://kuoyihs.in/
 nav:
   - Blog:
-    - blog/index.md 
+    - blog/index.md
+
 theme:
     name: 'material'
     language: zh-TW
@@ -53,18 +54,18 @@ plugins:
   # 調整 nav 呈現
   - awesome-pages
   # 合併 section 和 index
-  - section-index
+  #- section-index
   - roamlinks
   - blog:
       blog_dir: blog
       post_dir: blog/posts
       post_url_format: "{slug}"
-  #- blogging:
-     # locale: zh-TW
-     # dirs:
-     #   - essays
-     # size: 5
-     # time_format: '%Y-%m-%d'
+  - blogging:
+      locale: zh-TW
+      dirs:
+        - essays
+      size: 5
+      time_format: '%Y-%m-%d'
   - redirects:
       redirect_maps:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
