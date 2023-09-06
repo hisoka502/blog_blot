@@ -59,12 +59,12 @@ plugins:
       blog_dir: blog
       post_dir: blog/posts
       post_url_format: "{slug}"
-  - blogging:
-      locale: zh-TW
-      dirs:
-        - essays
-      size: 5
-      time_format: '%Y-%m-%d'
+  #- blogging:
+     # locale: zh-TW
+     # dirs:
+     #   - essays
+     # size: 5
+     # time_format: '%Y-%m-%d'
   - redirects:
       redirect_maps:
           'introvert-doing-customer-interview.md': 'https://kuoyihs.in/essays/introvert-advantages-in-product-development'
