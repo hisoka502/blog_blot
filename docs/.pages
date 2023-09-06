@@ -2,5 +2,4 @@ nav:
     - index.md
     - essays
     - notes
-    - blog:
-      - blog/index.md
+    - blog
