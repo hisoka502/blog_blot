@@ -52,6 +52,11 @@ plugins:
   # 合併 section 和 index
   - section-index
   - roamlinks
+  - blog:
+      blog_dir: blog
+      post_dir: blog/posts
+      post_url_format: "{slug}"
+      
   - blogging:
       locale: zh-TW
       dirs:
